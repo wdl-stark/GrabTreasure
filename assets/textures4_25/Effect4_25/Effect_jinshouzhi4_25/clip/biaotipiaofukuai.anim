@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "biaotipiaofukuai",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "img_game_4.25tongyong_bt01": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -135.6,
+                20.7
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -138,
+                23.1
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -135.6,
+                20.7
+              ]
+            }
+          ]
+        }
+      },
+      "img_game_4.25tongyong_bt03": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -134.5,
+                -35.8
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -137.3,
+                -37.5
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -134.5,
+                -35.8
+              ]
+            }
+          ]
+        }
+      },
+      "img_game_4.25tongyong_bt02": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                132.5,
+                40.5
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                134.9,
+                43.1
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                132.5,
+                40.5
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

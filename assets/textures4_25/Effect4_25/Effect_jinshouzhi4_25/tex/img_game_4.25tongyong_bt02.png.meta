@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "0cee55b6-49ef-4866-9587-b927b85166b1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "img_game_4.25tongyong_bt02": {
+      "ver": "1.0.4",
+      "uuid": "374d4e08-4f23-4f49-8fd5-b5345476f868",
+      "rawTextureUuid": "0cee55b6-49ef-4866-9587-b927b85166b1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 41,
+      "height": 38,
+      "rawWidth": 41,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
